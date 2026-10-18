@@ -1,0 +1,35 @@
+{
+  "status": "CUTOVER_VERIFIED",
+  "completedAt": "2026-10-18T03:29:32.768504Z",
+  "writerVersion": 68,
+  "writerBuild": "26d931a",
+  "mergedCommit": "26d931a74c778804abfabf7cd541c84e987fba3b",
+  "pullRequest": "https://github.com/tpruittguitar/foreman-cockpit/pull/118",
+  "source": "GITHUB",
+  "formerDriveIndexId": "1Fv_XQc-2cz2B2jWWP7Aapmd0KlHiGBLk",
+  "sourceDriveIndexHash": "3a171724888a7:4305851",
+  "migrationCommit": "d3f30703a7b28e33ee18c9cfe27749220aca92f9",
+  "migrationBlobSha": "6b09a8ab337c297604d01e22581d4d134a974611",
+  "requestCount": 5257,
+  "statusCounts": {
+    "COMPLETE": 5252,
+    "FALSE_COMPLETE": 5
+  },
+  "pendingCount": 0,
+  "compactedBytes": 946968,
+  "independentRawReadbackMatched": true,
+  "historicalCompleteAndFalseCompleteReadbacksMatched": true,
+  "finalFreeze": null,
+  "finalUnverifiedCount": 0,
+  "finalQueue": {
+    "pending": 0,
+    "processing": [],
+    "hold": []
+  },
+  "finalWriterErrors": [],
+  "temporaryConfigurationHelperRemoved": true,
+  "all15DeployedScriptSourcesMatchMergedCodeExceptPreservedKeyAndBuildStamp": true,
+  "masterMutationsByCutoverRun": 0,
+  "ordinaryPostCutoverMasterWriteObserved": false,
+  "note": "Immutable cutover record, not a live status file. Future Writer checkpoints legitimately change index hash and counts."
+}

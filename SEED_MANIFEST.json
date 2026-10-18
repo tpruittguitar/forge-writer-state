@@ -1,0 +1,12 @@
+{
+  "status": "REVIEW_SEED_NOT_ACTIVE",
+  "sourceDriveFileId": "1Fv_XQc-2cz2B2jWWP7Aapmd0KlHiGBLk",
+  "sourceModifiedTime": "2026-10-18T02:57:51.775Z",
+  "sourceIndexUpdatedAt": "2026-10-18T02:57:50.257Z",
+  "originalBytes": 4243526,
+  "originalSha256": "098c9667421164b320fab67f70a1a40ad1b0675687dc8ac834353b5369db6f3b",
+  "requestCount": 5232,
+  "pendingCount": 0,
+  "runId": "FORGE-INDEX-CHATGPT-20261017-2305ET",
+  "note": "Migration must re-read the live Drive index while Writer is frozen and locked. This review seed is not cutover proof."
+}
